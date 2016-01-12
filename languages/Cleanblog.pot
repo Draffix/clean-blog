@@ -1,0 +1,139 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean Blog Theme Theme\n"
+"POT-Creation-Date: 2016-01-05 22:28+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jürgen Rabe | www.egado.de <rabe@egado.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:18
+msgid "Page not found"
+msgstr ""
+
+#: ../404.php:29
+msgid "Return home?"
+msgstr ""
+
+#: ../about-template.php:62 ../author.php:75 ../contact-template.php:62
+#: ../loop.php:45 ../page.php:60 ../single.php:60
+msgid "Sorry, nothing to display."
+msgstr ""
+
+#: ../archive.php:11
+msgid "Archives"
+msgstr ""
+
+#: ../author.php:11
+msgid "Author Archives for "
+msgstr ""
+
+#: ../comments.php:3
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:18
+msgid "Comments are closed here."
+msgstr ""
+
+#: ../functions.php:91
+msgid "Header Menu"
+msgstr ""
+
+#: ../functions.php:132
+msgid "Widget Area 1"
+msgstr ""
+
+#: ../functions.php:133 ../functions.php:144
+msgid "Description for this widget-area..."
+msgstr ""
+
+#: ../functions.php:143
+msgid "Widget Area 2"
+msgstr ""
+
+#: ../functions.php:192
+msgid "View Article"
+msgstr ""
+
+#: ../functions.php:247
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../functions.php:250
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:257
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:257
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:371
+msgid "in"
+msgstr ""
+
+#: ../functions.php:396
+msgid "Tags: "
+msgstr ""
+
+#: ../includes/background-image-meta-box-template.php:6
+msgid "Background Image"
+msgstr ""
+
+#: ../includes/background-image-meta-box-template.php:27
+#: ../includes/background-image-meta-box-template.php:32
+#: ../includes/background-image-meta-box-template.php:54
+msgid "Choose or Upload an Image"
+msgstr ""
+
+#: ../includes/background-image-meta-box-template.php:55
+msgid "Use this image"
+msgstr ""
+
+#: ../loop.php:16 ../single.php:21
+msgid "Published by"
+msgstr ""
+
+#: ../loop.php:16 ../single.php:22
+msgid "on"
+msgstr ""
+
+#: ../loop.php:32
+msgid "older posts"
+msgstr ""
+
+#: ../loop.php:35
+msgid "newer posts"
+msgstr ""
+
+#: ../search.php:7
+#, php-format
+msgid "%s Search Results for "
+msgstr ""
+
+#: ../searchform.php:3
+msgid "To search, type and hit enter."
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: ../tag.php:11
+msgid "Tag Archive: "
+msgstr ""

@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean Blog Theme\n"
+"POT-Creation-Date: 2016-01-05 22:23+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jaroslav Klimcik | www.blog.jerryklimcik.cz\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Language: cs\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:9
+msgid "Page not found"
+msgstr "Stránka nenalezena"
+
+#: ../404.php:11
+msgid "Return home?"
+msgstr "Zpět domů?"
+
+#: ../archive.php:6
+msgid "Archives"
+msgstr "Archiv"
+
+#: ../author.php:8
+msgid "aaaa "
+msgstr "Archiv autora"
+
+#: ../author.php:14
+msgid "About"
+msgstr "O mě"
+
+#: ../author.php:41 ../loop.php:22 ../single.php:27
+msgid "Published by"
+msgstr "Napsal"
+
+#: ../author.php:42 ../loop.php:23 ../single.php:28
+msgid "Leave your thoughts"
+msgstr "Zanechte vzkaz"
+
+#: ../author.php:42 ../loop.php:23 ../single.php:28
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#: ../author.php:42 ../loop.php:23 ../single.php:28
+msgid "% Comments"
+msgstr "% komentářů"
+
+#: ../author.php:61 ../loop.php:39 ../page.php:31 ../single.php:53
+#: ../template-demo.php:31
+msgid "Sorry, nothing to display."
+msgstr "Bohužel nic nebylo nalezeno"
+
+#: ../category.php:6
+msgid "Categories for"
+msgstr "Kategorie"
+
+#: ../comments.php:3
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr "Příspěvek je chráněn heslem. Pro zobrazení zadejte heslo."
+
+#: ../comments.php:18
+msgid "Comments are closed here."
+msgstr "Komentáře jsou uzavřeny."
+
+#: ../functions.php:258
+msgid "View Article"
+msgstr "Zobrazit příspěvek"
+
+#: ../functions.php:322
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentář čeká na potvrzení moderátorem."
+
+#: ../functions.php:328
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:328
+msgid "(Edit)"
+msgstr "(Upravit)"
+
+#: ../functions.php:413
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: ../functions.php:415
+msgid "Edit"
+msgstr "Upravit"
+
+#: ../index.php:6
+msgid "Latest Posts"
+msgstr "Poslední příspěvky"
+
+#: ../search.php:6
+#, php-format
+msgid "%s Search Results for"
+msgstr "%s Nalezených výsledku pro výraz"
+
+#: ../searchform.php:3
+msgid "To search, type and hit enter."
+msgstr "Pro vyhledávání zde klikněte a zadejte výraz"
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Hledat"
+
+#: ../single.php:33
+msgid "Tags:"
+msgstr "Štítky:"
+
+#: ../single.php:35
+msgid "Categorised in:"
+msgstr "V kategorii:"
+
+#: ../single.php:37
+msgid "This post was written by"
+msgstr "Autorem příspěvku je"
+
+#: ../tag.php:6
+msgid "Tag Archive:"
+msgstr "Archiv štítků:"
+
+msgid "on"
+msgstr "dne"
+
+msgid "in"
+msgstr "v"
+
+msgid "older posts"
+msgstr "starší články"
+
+msgid "newer posts"
+msgstr "novejší články"
