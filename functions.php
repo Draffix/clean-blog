@@ -9,7 +9,12 @@
 	External Modules/Files
 \*------------------------------------*/
 
-// Load any external files you have here
+//Initialize the update checker.
+require 'theme-updates/theme-update-checker.php';
+$example_update_checker = new ThemeUpdateChecker(
+    'clean-blog',
+    'https://github.com/Draffix/clean-blog/blob/master/info.json'
+);
 
 /*------------------------------------*\
 	Theme Support
