@@ -42,6 +42,11 @@ You can view the theme in action on the [live demo](http://blog.jerryklimcik.cz/
 2. Default theme design
 ![default theme design](https://raw.githubusercontent.com/Draffix/clean-blog/master/screenshot.png)
 
+## Customize
+
+1. To create a home link on the left of header go to the Appearance => Menus and create a new menu. For this menu set theme locations as "Header Menu" and set up its name which will be the name displayed in home link.
+2. For display icons in bottom just go to the Theme Panel in Wordpress administration and tick checkbox you want to display and fill its URL address. For copyright text use input "Footer Info". Finally click on button "Save Changes".
+
 ## Development Information
 
 This theme wouldn't have been possible without the following open source resources
