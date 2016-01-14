@@ -52,5 +52,4 @@ This theme wouldn't have been possible without the following open source resourc
 
 ## Alternative Theme
 
-Because [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is very popular theme, there is an official alternative
-theme which offer some another features to customize. You can find it [here](https://github.com/deviodigital/cleanblog) by deviodigital. 
+Because [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is very popular theme, there is an official alternative theme which offer some another features to customize. You can find it [here](https://github.com/deviodigital/cleanblog) by deviodigital. 
